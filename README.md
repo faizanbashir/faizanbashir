@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/faizanbashir?label=Follow%20%40faizanbashir&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/faizanbasher?style=for-the-badge)
 
-My name is **Faizan Bashir**, Principal engineer 3x Kubernetes certified, 
+My name is **Faizan Bashir**, Site Reliability Engineer 3x Kubernetes and Azure certified, 
 experienced in building scalable web applications and Cloud Infrastructure.
 I ❤️ contributing to open source.
 
